@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css>
+    <title>Pure CSS Scrolling Effects<title>
+</head>
+<body>
+    <div class="banner"></div>
+    <section>
+        <div class="imgBx">
+            <img src="img1.jpg">
+        </div>
+        <div class="content">
+           <h2>DELF</h2>
+           <p> These exams fo from the level A1 to B2. We offer group and individual classes to prepare you for these exams. 
+           There are 100% online due to coronavirus crisis. There are different schedules and proces of the collective and 
+           individual classes. The inscription to these exams is between 2nd of December to 13th of January 2021. The exams 
+           will take place in February 2021 </p>
+        </div>
+    </section>
+        <div class="imgBx">
+            <img src="img2.jpg">
+        </div>
+        <div class="content">
+           <h2>DALF</h2>
+           <p> These exams fo from the level C1 to C2. We offer group and individual classes to prepare you for these exams. 
+           There are 100% online due to coronavirus crisis. There are different schedules and proces of the collective and 
+           individual classes. The inscription to these exams is between 2nd of December to 13th of January 2021. The exams 
+           will take place in February 2021 </p>
+            </div>
+    </section> 
+        <div class="imgBx">
+            <img src="img3.jpg">
+        </div>
+        <div class="content">
+           <h2>TFC</h2>
+           <p> The TFC exam is very different from the DELF and DALF exam. You can't fail this exam, and it indicates you the level 
+           that you have, from A1 to C2. Students can take this exam every month exept from august. The inscription to this exam is 
+           in June 2021, and it has a validity date of two years. We offer group and individual classes to prepare you for these exams. 
+           There are 100% online due to coronavirus crisis. There are different schedules and proces of the collective and 
+           individual classes. </p>
+            </div>
+<body>
+</html>
